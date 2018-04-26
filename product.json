@@ -1,0 +1,14 @@
+[
+    {"type":"header","version":"4.7.3","comment":"Export to JSON plugin for PHPMyAdmin"},
+    {"type":"database","name":"webshop"},
+    {"type":"table","name":"Product","database":"webshop","data":
+    [
+    {"Articlenr":"1","Name":"AIR JORDAN 12 RETRO LOW","Source":"images\/12435768_11434378_480.jpg","Gender":"1","Colorid":"grey","Category":"Sweather","Brand":"JORDAN","Price":"545.00","Unit":"\u20ac"},
+    {"Articlenr":"2","Name":"AIR JORDAN 12 RETRO LOW","Source":"images\/12514601_11821522_480.jpg","Gender":"1","Colorid":"black","Category":"Sweather","Brand":"PHILIPP PLEIN","Price":"545.00","Unit":"\u20ac"},
+    {"Articlenr":"3","Name":"GANRYU DEGRADE JEANS","Source":"images\/742-Philipp-Plein-women-s-give-me-diamonds-t-shirt-1.jpg","Gender":"0","Colorid":"white","Category":"T-Shirt","Brand":"PHILIPP PLEIN","Price":"430.00","Unit":"\u20ac"},
+    {"Articlenr":"4","Name":"NIKE KOBE A.D. SPECIAL EDITION","Source":"images\/Ruth-jumper-Philipp-Plein-Women-Knitwear-Jumpers-9y1hD2.jpg","Gender":"0","Colorid":"black","Category":"T-Shirt","Brand":"NIKE","Price":"160.00","Unit":"\u20ac"},
+    {"Articlenr":"5","Name":"HM JACKET CORTEX","Source":"images\/FW15-HM217108c_02_1__a.jpg","Gender":"0","Colorid":"Silver grey","Category":"JACKET","Brand":"HM","Price":"130.00","Unit":"\u20ac"},
+    {"Articlenr":"6","Name":"GIVENCHY MEN LEATHER JACKET","Source":"images\/givenchy-men-leather-jacket-online-shop-buy-price-2014-bomber-riccardo-tisci.jpg","Gender":"1","Colorid":"Green","Category":"JACKET","Brand":"PHILIPP PLEIN","Price":"470.00","Unit":"\u20ac"}
+    ]
+    }
+]

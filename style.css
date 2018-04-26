@@ -1,0 +1,83 @@
+
+.myLogo{
+  font-family: 'Vollkorn SC', serif;
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+.productgalleries{
+	margin-top: 20px;
+	
+}
+
+.slider{
+  display:inline-block;
+  overflow:hidden;
+}
+
+a:before {
+ content:attr(rel);
+ position:absolute;
+ top:5px;
+}
+
+a{
+  position:relative;
+  top:0;
+  -webkit-transition-duration: .25s;
+}
+
+a:hover {
+  top:-5px; 
+  -webkit-transition-duration: .25s;  
+  
+}
+form  {
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+fieldset  {
+  border: 1px solid #ececec;
+  margin-bottom: 5px;
+}
+legend  {
+  text-transform: uppercase;
+}
+.label  {
+  width: 160px;
+  float: left;
+  text-align: right;
+  margin-right: 10px;
+  text-transform: uppercase;
+  padding-top: 5px
+}
+input[type = text]  {
+  margin-bottom: 5px;
+}
+input[type = submit]  {
+  margin-top: 10px;
+  margin-left: 170px;
+  background-color: #fff;
+  border: 1px solid #ececec;
+  padding: 5px 10px;
+  text-transform: uppercase;
+  font-size: 1em;
+}
+#creditCard  {
+  margin-top: 5px;
+}
+/* Men and women */
+.container{
+  width: 200px;
+  height: 300px;
+}
+.container img{
+  width: 100%;
+  height: auto;
+}
+.logo {
+  margin-bottom: 40px;
+  letter-spacing: 0.7em;
+}
+
